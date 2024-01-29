@@ -12,7 +12,7 @@ const Contact = () => {
                   CONTACT US
                 </span>
                 <h2 className="max-w-[260px] text-[35px] font-semibold leading-[1.14] text-dark dark:text-white">
-                  Let&#39;s talk .
+                  Let&#39;s talk.
                 </h2>
               </div>
               <div className="mb-12 flex flex-wrap justify-between lg:mb-0">
@@ -33,8 +33,8 @@ const Contact = () => {
                       Our Location
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      2nd flooor, Rachit Delite, College Rd, Yeolekar Mala,
-                      Ramdas Colony, Nashik, Maharashtra 422005
+                      Fortune Arcade, 2nd flooor, College Road, Yeolekar Mala,
+                      Ramdas Colony, Nashik, Maharashtra-422005
                     </p>
                   </div>
                 </div>
