@@ -1,4 +1,5 @@
 import Image from "next/image";
+import SectionTitle from "../Common/SectionTitle";
 
 const About = () => {
   return (
@@ -11,9 +12,7 @@ const About = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <div className="mb-12 max-w-[540px] lg:mb-0">
-                <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
-                  Who We Are:
-                </h2>
+                <SectionTitle subtitle="____" title="Who We Are" paragraph="" />
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
                   We are a dynamic team of AI enthusiasts, comprising seasoned
                   experts and passionate innovators. Our diverse talents and

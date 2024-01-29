@@ -18,9 +18,9 @@ import { getAllPosts } from "@/utils/markdown";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Play Next.js - SaaS Starter Kit and Boilerplate for Next.js",
+  title: "LogicNimbus Pvt. Ltd. - AI based product company",
   description:
-    "Free Next.js SaaS Boilerplate and Starter Kit designed and built for SaaS startups. It comes with all necessary integrations, pages, and components you need to launch a feature-rich SaaS websites.",
+    "Discover cutting-edge AI solutions at LogicNimbus, where innovation meets intelligence. Explore our range of AI-based products designed to revolutionize industries and elevate business performance. Harness the power of artificial intelligence for unparalleled efficiency and stay ahead in the digital era. Elevate your enterprise with our state-of-the-art AI technology – transforming possibilities into realities.",
 };
 
 export default function Home() {

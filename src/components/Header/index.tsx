@@ -66,15 +66,15 @@ const Header = () => {
                     <Image
                       src={`/images/logo/logo.svg`}
                       alt="logo"
-                      width={60}
-                      height={30}
+                      width={240}
+                      height={60}
                       className="header-logo  dark:hidden"
                     />
                     <Image
                       src={`/images/logo/logo-white.svg`}
                       alt="logo"
-                      width={60}
-                      height={30}
+                      width={240}
+                      height={60}
                       className="header-logo hidden  dark:block"
                     />
                   </>
@@ -87,15 +87,15 @@ const Header = () => {
                           : "/images/logo/logo-white.svg"
                       }`}
                       alt="logo"
-                      width={60}
-                      height={30}
+                      width={240}
+                      height={60}
                       className="header-logo  dark:hidden"
                     />
                     <Image
                       src={"/images/logo/logo-white.svg"}
                       alt="logo"
-                      width={60}
-                      height={30}
+                      width={240}
+                      height={60}
                       className="header-logo hidden  dark:block"
                     />
                   </>
