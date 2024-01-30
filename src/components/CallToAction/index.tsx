@@ -28,7 +28,7 @@ const CallToAction = () => {
                     data-wow-delay=".3s"
                   >
                     <a
-                      href="https://github.com/NextJSTemplates/play-nextjs"
+                      href="https://tunk.ai/"
                       className="text-white/60 duration-300 ease-in-out hover:text-white"
                       target="_blank"
                     >
