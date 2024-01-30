@@ -54,7 +54,7 @@ const Header = () => {
       >
         <div className="container">
           <div className="relative -mx-4 flex items-center justify-between">
-            <div className="w-60 max-w-full px-4">
+            <div className="w-120 max-w-full px-4">
               <Link
                 href="/"
                 className={`navbar-logo block w-full ${
@@ -66,15 +66,15 @@ const Header = () => {
                     <Image
                       src={`/images/logo/logo.png`}
                       alt="logo"
-                      width={240}
-                      height={60}
+                      width={320}
+                      height={120}
                       className="header-logo  dark:hidden"
                     />
                     <Image
                       src={`/images/logo/logo-white.png`}
                       alt="logo"
-                      width={240}
-                      height={60}
+                      width={320}
+                      height={120}
                       className="header-logo hidden  dark:block"
                     />
                   </>
@@ -83,19 +83,19 @@ const Header = () => {
                     <Image
                       src={`${
                         sticky
-                          ? "/images/logo/logo.svg"
-                          : "/images/logo/logo-white.svg"
+                          ? "/images/logo/logo.png"
+                          : "/images/logo/logo-white.png"
                       }`}
                       alt="logo"
-                      width={240}
-                      height={60}
+                      width={320}
+                      height={120}
                       className="header-logo  dark:hidden"
                     />
                     <Image
-                      src={"/images/logo/logo-white.svg"}
+                      src={"/images/logo/logo-white.png"}
                       alt="logo"
-                      width={240}
-                      height={60}
+                      width={320}
+                      height={120}
                       className="header-logo hidden  dark:block"
                     />
                   </>
@@ -103,8 +103,8 @@ const Header = () => {
               </Link>
             </div>
             <div className="flex w-full items-center justify-between px-4">
-              {/* <div>
-                <button
+              <div>
+                {/* <button
                   onClick={navbarToggleHandler}
                   id="navbarToggler"
                   aria-label="Mobile Menu"
@@ -137,7 +137,7 @@ const Header = () => {
                         : "bg-white"
                     }`}
                   />
-                </button>
+                </button> */}
                 <nav
                   id="navbarCollapse"
                   className={`navbar absolute right-0 z-30 w-[250px] rounded border-[.5px] border-body-color/50 bg-white px-6 py-4 duration-300 dark:border-body-color/20 dark:bg-dark-2 lg:visible lg:static lg:w-auto lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 lg:dark:bg-transparent ${
@@ -259,7 +259,7 @@ const Header = () => {
                     )}
                   </ul>
                 </nav>
-              </div> */}
+              </div>
               <div className="hidden items-center justify-end pr-16 sm:flex lg:pr-0">
                 {/* theme toggler */}
                 <button
