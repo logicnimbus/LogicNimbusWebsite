@@ -64,14 +64,14 @@ const Header = () => {
                 {pathUrl !== "/" ? (
                   <>
                     <Image
-                      src={`/images/logo/logo.svg`}
+                      src={`/images/logo/logo.png`}
                       alt="logo"
                       width={240}
                       height={60}
                       className="header-logo  dark:hidden"
                     />
                     <Image
-                      src={`/images/logo/logo-white.svg`}
+                      src={`/images/logo/logo-white.png`}
                       alt="logo"
                       width={240}
                       height={60}
@@ -103,7 +103,7 @@ const Header = () => {
               </Link>
             </div>
             <div className="flex w-full items-center justify-between px-4">
-              <div>
+              {/* <div>
                 <button
                   onClick={navbarToggleHandler}
                   id="navbarToggler"
@@ -259,7 +259,7 @@ const Header = () => {
                     )}
                   </ul>
                 </nav>
-              </div>
+              </div> */}
               <div className="hidden items-center justify-end pr-16 sm:flex lg:pr-0">
                 {/* theme toggler */}
                 <button
