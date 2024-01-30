@@ -33,7 +33,7 @@ const Contact = () => {
                       Our Location
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      Fortune Arcade, 2nd flooor, College Road, Yeolekar Mala,
+                      Fortune Arcade, 2nd floor, College Road, Yeolekar Mala,
                       Ramdas Colony, Nashik, Maharashtra-422005
                     </p>
                   </div>

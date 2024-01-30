@@ -62,7 +62,7 @@ const About = () => {
                         AI
                       </span>
                       <span className="block text-base font-semibold text-white">
-                        we harness the power of Artificial Intelligence
+                        We harness the power of Artificial Intelligence!
                       </span>
                     </div>
                     <div>
