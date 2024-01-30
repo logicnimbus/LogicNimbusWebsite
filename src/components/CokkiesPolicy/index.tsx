@@ -20,7 +20,7 @@ const CookiesPolicy = () => {
                 <p>
                   This website uses cookies. Cookies are small files containing
                   certain information that are stored on your device. Cookies
-                  are served either by LogciNimbus or Tunk.ai, (collectively
+                  are served either by LogciNimbus or Tunk.ai. (collectively
                   &quot;LogicNimbus&quot;) &ndash; so-called &quot;first party
                   cookies&quot; &ndash; or by third parties providing services
                   to LogicNimbus; such cookies are referred to as &quot;third
