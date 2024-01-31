@@ -64,8 +64,8 @@ const CookiesPolicy = () => {
                 <p>
                   To the extent that information processed in connection with
                   strictly necessary cookies should qualify as personal data in
-                  a given case, the legal ground for that processing is Siemens’
-                  legitimate interest to operate the website.
+                  a given case, the legal ground for that processing is
+                  LogicNimbus legitimate interest to operate the website.
                 </p>
                 <p className="my-2 font-bold">Performance Cookies</p>
                 <p>
@@ -88,7 +88,7 @@ const CookiesPolicy = () => {
                   aggregated and can normally not be linked to a specific
                   natural person. However, in certain cases the collected
                   information can be linked to you directly (provided you
-                  disclosed your identity to Siemens, e.g., when creating an
+                  disclosed your identity to LogicNimbus, e.g., when creating an
                   account or filing a request with us). To the extent that
                   information processed in connection with performance cookies
                   can, in a given case, be directly linked to you or otherwise
@@ -131,7 +131,7 @@ const CookiesPolicy = () => {
                 </p>
                 <p>
                   In case of any request in connection with this Cookie Notice,
-                  please contact support@logicnimbus.com
+                  please contact support@logicnimbus.com.
                 </p>
               </div>
             </div>
