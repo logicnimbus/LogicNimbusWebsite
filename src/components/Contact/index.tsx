@@ -33,8 +33,9 @@ const Contact = () => {
                       Our Location
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      Fortune Arcade, 2nd floor, College Road, Yeolekar Mala,
-                      Ramdas Colony, Nashik, Maharashtra-422005
+                      LogicNimbus Private Limited <br /> Plot 50, Bajarang
+                      Society, <br /> Behind Rajsarathi Soc. Vadala Pathardi
+                      Road, Indira Nagar Nashik, Maharashtra 422009 India
                     </p>
                   </div>
                 </div>
